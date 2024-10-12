@@ -48,4 +48,4 @@ for user, user_hmm in user_hmms.items():
         best_score = score
         best_user = user
 
-print(f"Best match: {best_user} with score: {best_score}")
+print(f"Best match: {best_user}")
